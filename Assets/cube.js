@@ -2,6 +2,8 @@
 
 function Start () {
 
+Debug.Log("Hello World");
+
 }
 
 function Update () {
